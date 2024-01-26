@@ -10,10 +10,10 @@ Les données analysées ont été collectées par Jonathan en 2015 et à travers
 
 Résultats de l’analyse
 
-	Jours et heures d’occupation maximale afin d’optimiser la gestion du personnel et de prévoir les moments de forte affluence
-	L’exploration approfondie de la production de pizzas en période de pointe afin de déterminer la quantité fabriquées pendant cette période pour aider à ajuster la production en fonction de la demande.
-	Identification des pizzas les plus populaires pour une bonne orientation des stratégies marketing et la compréhension des pizzas moins vendues ce qui permet de réfléchir à des améliorations ou à des ajustements.
-	L’analyse de la valeur moyenne des commandes nous offre un aperçu du comportement d’achat des clients et de la rentabilité globale.
+Jours et heures d’occupation maximale afin d’optimiser la gestion du personnel et de prévoir les moments de forte affluence
+L’exploration approfondie de la production de pizzas en période de pointe afin de déterminer la quantité fabriquées pendant cette période pour aider à ajuster la production en fonction de la demande.
+Identification des pizzas les plus populaires pour une bonne orientation des stratégies marketing et la compréhension des pizzas moins vendues ce qui permet de réfléchir à des améliorations ou à des ajustements.
+L’analyse de la valeur moyenne des commandes nous offre un aperçu du comportement d’achat des clients et de la rentabilité globale.
 
 Perspectives futures
 
